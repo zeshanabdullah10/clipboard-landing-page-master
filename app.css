@@ -36,6 +36,7 @@ header {
   position: relative;
 }
 .logo {
+  margin-top: 3rem;
   margin-bottom: 3rem;
 }
 .headerText1 {
