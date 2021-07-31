@@ -75,6 +75,12 @@ h3 {
   background-color: hsl(233, 100%, 69%);
   border: 2px solid hsl(233, 100%, 69%);
 }
+
+.Mac:hover,
+.IOS:hover {
+  opacity: 0.7;
+}
+
 h2 {
   font-size: 1.8rem;
   font-weight: 600;
@@ -227,6 +233,7 @@ footer {
 .instagram {
   padding: 1rem;
 }
+
 @media screen and (max-width: 768px) {
   html {
     font-size: 16px;
